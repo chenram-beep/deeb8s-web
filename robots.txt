@@ -1,0 +1,6 @@
+# The Sitemap directive technically requires an absolute URL per spec --
+# update this to the real domain once Phase 5 (Cloud Cutover) assigns one.
+User-agent: *
+Allow: /
+
+Sitemap: /sitemap.xml
